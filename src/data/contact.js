@@ -24,7 +24,7 @@ const data = [
   },
   {
     link: 'https://medium.com/@708kelly',
-    label: 'OpenProcessing',
+    label: 'Medium',
     icon: faMedium,
   },
   {

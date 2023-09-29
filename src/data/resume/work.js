@@ -15,13 +15,12 @@
 const work = [
   {
     name: 'E.SUN BANK',
-    position: 'Web Developer',
+    position: 'Product  Developer',
     url: 'https://www.esunbank.com/',
     startDate: '2022-02',
     summary: 'E.SUN BANK is a leading bank in Taiwan. I work on the AI team to develop machine learning web services. I Design and establish user-friendly web interface with Vue and React, develop backend API with Fastapi. I also design real-time communication and scalability web system and used Docker to managed containers',
     highlights: [
       'Developed asynchronous OCR web service (in-house website) with Celery/RabbitMQ/Redis, and used Kafka consumer to receive asynchronous API responses.',
-      'Provided backend API for Fintech Taipei 2023 showcase, with websocket and redis stream',
       'Conducted research on Edge computing and implemented face recognition using the Paddle-Lite framework',
       'Designed front-end Genne website (in-house chatGPT web service) architecture using Vue and event source for showing messaging.',
       'Developed Opensource Chinese Phonetic Annotation System  for educators to select appropriate annotations and export to Word and TXT using g2p model.',

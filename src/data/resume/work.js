@@ -14,10 +14,21 @@
 
 const work = [
   {
+    name: 'Microsoft',
+    position: 'Software Engineer',
+    url: 'https://azure.microsoft.com/',
+    startDate: '2024-03',
+    summary: 'ai-document-intelligence (https://azure.microsoft.com/en-us/products/ai-services/ai-document-intelligence)',
+    highlights: [
+      'Developed internal document visualization tools.',
+    ],
+  },
+  {
     name: 'E.SUN BANK',
     position: 'Product  Developer',
     url: 'https://www.esunbank.com/',
-    startDate: '2022-02',
+    startDate: '2023-02',
+    endDate: '2024-02',
     summary: 'E.SUN BANK is a leading bank in Taiwan. I work on the AI team to develop machine learning web services. I Design and establish user-friendly web interface with Vue and React, develop backend API with Fastapi. I also design real-time communication and scalability web system and used Docker to managed containers',
     highlights: [
       'Developed asynchronous OCR web service (in-house website) with Celery/RabbitMQ/Redis, and used Kafka consumer to receive asynchronous API responses.',
@@ -31,7 +42,7 @@ const work = [
     position: 'Machine Learning Engineer',
     url: 'https://www.esunbank.com/',
     startDate: '2021-08',
-    endDate: '2022-02',
+    endDate: '2023-02',
     summary: 'E.SUN BANK is a leading bank in Taiwan. I work on the AI team to develop machine learning services including train and research computer vision models.',
     highlights: [
       "Developed Restful APIs and OCR models, integrated into the company's services to improve service speed and reduce manual processing",
